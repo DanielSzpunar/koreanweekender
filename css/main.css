@@ -1,3 +1,23 @@
 h1 {
-    color: red;
+    color: white;
+    text-align:center;
+    font-size: 32px;
+    
+}
+.jumbotron {
+    height: 100%;
+    background-image: url("../img/koreansPanoram.jpg");
+    background-size: cover;
+        
+}
+.jumbotron-h1 {
+    color: white;
+    text-align:center;
+    font-size: 3em;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 6px;
+}
+.lead {
+    text-align: center;
+    color:white;
 }
